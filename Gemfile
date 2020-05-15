@@ -7,7 +7,7 @@ end
 # USe Devise gem for user authentication
 gem 'devise'
 
-gem 'bootstrap-sass', '~> 3.4.1'
+gem 'bootstrap', '~> 4.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views', '~> 1.0'

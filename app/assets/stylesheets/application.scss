@@ -12,7 +12,6 @@
  *
 
  */
-@import "bootstrap-sprockets";
 @import "bootstrap";
 
 .login-form {
@@ -30,3 +29,7 @@
         margin: 0 0 15px;
         text-align: center;
     }
+
+.footer{
+    margin-top: 630px;
+}
